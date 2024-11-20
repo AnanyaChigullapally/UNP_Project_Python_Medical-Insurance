@@ -10,5 +10,5 @@ Data Preprocessing
 3.Data Modeling & Evaluation 4.Machine Learning Algorithms -Linear Regression -K-Nearest Neighbours -Decission Tree
 Summary
 GOOGLE COLAB LINK: https://colab.research.google.com/drive/1NO4glc7PgnGsA6laL__wgwGxQEIp30B9?usp=sharing
-PPT LINK: 
-https://drive.google.com/file/d/19LvWuIaNfTktkrIDx_9XZSx_DoF8RPUK/view?usp=drivesdk
+
+PPT LINK: https://drive.google.com/file/d/19LvWuIaNfTktkrIDx_9XZSx_DoF8RPUK/view?usp=drivesdk
